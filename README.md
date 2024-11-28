@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="README.md">Hey Everyone</a> 
+    text = Hey Everyone!
 </p>
 
 <p align='center'>
